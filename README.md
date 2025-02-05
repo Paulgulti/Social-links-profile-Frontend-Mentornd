@@ -3,8 +3,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/679cb0b4129eef63e9615711/challenge/complete
+- Live Site URL: https://social-links-profile-frontend-mentor-kappa.vercel.app/
 
 ### Built with
 
@@ -14,6 +14,5 @@
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Paulgulti](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@Paulma00s](https://www.twitter.com/Paulma00s)
